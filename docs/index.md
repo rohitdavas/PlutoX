@@ -41,7 +41,7 @@ drone.jpeg
   <p align="center">
     Drone programming over given constraints, C++, Hackathon
     <br />
-    <a href="https://rohitdavas.github.io/projects/PlutoX.html"><strong>Explore the docs »</strong></a>
+    <a href="https://rohitdavas.github.io/PlutoX"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/rohitdavas/PlutoX">View Demo</a>
